@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-My First CommitV3
-=======
 My First CommitV4
->>>>>>> second_branch
